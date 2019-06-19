@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{36:function(n,o,e){"use strict";e.r(o);var t=e(0),a=e.n(t),i={display:"block",width:"500px",margin:"0 auto",color:"#2f3135",fontFamily:"Arial"};o.default=function(){return a.a.createElement("h1",{style:i},"Welcome to Paws online store")}}}]);
+//# sourceMappingURL=home-page.eaf28b7f.chunk.js.map
